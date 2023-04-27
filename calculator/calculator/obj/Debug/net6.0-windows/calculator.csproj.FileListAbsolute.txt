@@ -1,0 +1,51 @@
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+C:\Users\patri\Desktop\Internship\C#\Calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.calculator.resources
+C:\Users\patri\Desktop\My work\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\patri\Desktop\My work\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\patri\Desktop\My work\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\patri\Desktop\My work\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\My work\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.calculator.resources
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\patri\Desktop\My work\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.calculator.resources
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\patri\Desktop\My work\C#\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
